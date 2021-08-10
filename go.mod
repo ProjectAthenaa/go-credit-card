@@ -1,4 +1,4 @@
-module github.com/durango/go-credit-card
+module github.com/ProjectAthenaa/go-credit-card
 
 go 1.13
 
